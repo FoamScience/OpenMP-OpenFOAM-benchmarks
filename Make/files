@@ -1,0 +1,4 @@
+$(FOAM_FOAMUT)/tests/testDriver.C
+openmpTests.C
+
+EXE = testDriver
